@@ -27,4 +27,18 @@ function SumOfNumbers(a, b) {
 	return a + b;
 }
 ```
+## Experience
 
+I have only theoretical knowledge
+
+## Education
+
+Specialist degree, Transport Engineer, Ukrainian State University of Railway Transport
+2010 – 2015
+
+The Fundamentals of Software Testing, QATestLab
+2018/05/01 – 2018/05/27
+
+## English
+
+Intermediate
